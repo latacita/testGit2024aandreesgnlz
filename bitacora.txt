@@ -21,3 +21,9 @@
 	add + commit "Cambios fusión"
 (19)	checkout master
 (20)	stash apply
+(26)	tag "PasosExtras" 		En SegundaRama
+(27)	checkout master	
+(28) 	checkout SegundaRama
+	log				Obtener 5130661af35e0894f37fd5b76eb6c498fc6ea6e8
+	checkout master
+	cherry-pick 5130661af35e0894f37fd5b76eb6c498fc6ea6e8
