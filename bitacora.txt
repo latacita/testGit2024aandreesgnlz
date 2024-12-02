@@ -12,3 +12,8 @@
 (04)	branch PrimeraRama + checkout PrimeraRama
 (05)	add + commit "Paso 05"
 (06)	branch SegundaRama + checkout SegundaRama
+(13)	checkout SegundaRama
+(14)	Fast-Forward			El último commit de PrimeraRama es
+					"Paso 12", que esta dentro de SegundaRama
+(15)	Fast-Forward			El último commit de main es "Paso 03"
+					que esta dentro de PrimeraRama
