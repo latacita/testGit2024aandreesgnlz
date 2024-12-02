@@ -10,3 +10,5 @@
 (02)	add
 (03) 	commit "Paso 03"
 (04)	branch PrimeraRama + checkout PrimeraRama
+(05)	add + commit "Paso 05"
+(06)	branch SegundaRama + checkout SegundaRama
